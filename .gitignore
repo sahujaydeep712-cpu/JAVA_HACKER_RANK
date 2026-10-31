@@ -1,0 +1,17 @@
+# Compiled Java class files
+*.class
+
+# Log and temporary files
+*.log
+temp_original/
+extracted_raw.json
+builder/
+cleaner_utils.py
+track*.py
+generate_root_readme.py
+master_build.py
+verify_compile.py
+
+# OS generated files
+.DS_Store
+Thumbs.db
